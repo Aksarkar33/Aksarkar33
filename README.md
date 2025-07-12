@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **gamaru_mobile_app**
 
-- 🌱 I’m currently learning **Flutter,DSA,Python**
+- 🌱 I’m currently learning **Flutter,DSA,Java**
 
-- 💬 Ask me about **C language**
+- 💬 Ask me about **Java language**
 
 - 📫 How to reach me **aksarkar323@gmail.com**
 
