@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksarkar33&label=Profile%20views&color=0e75b6&style=flat" alt="aksarkar33" /> </p>
 
-- 🔭 I’m currently working on **gamaru_mobile_app**
+- 🔭 I’m currently working on **DSA,Node.js**
 
 - 🌱 I’m currently learning **Flutter,DSA,Java**
 
