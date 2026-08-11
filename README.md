@@ -17,7 +17,7 @@
 * 🚀 Building REST APIs using **Spring Boot & Spring Data JPA**
 * 🗄️ Working with **PostgreSQL & MySQL**
 * 🔐 Implementing **JWT Authentication & Spring Security**
-* 🧠 Solved **50+ DSA problems in Java**
+* 🧠 Solving **100+ DSA problems in Java**
 * 🛠️ Interested in building clean, scalable and production-ready applications
 * 💼 Currently seeking a **Junior Backend Developer / Software Engineer** role
 
